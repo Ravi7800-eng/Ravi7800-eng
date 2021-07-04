@@ -1,5 +1,8 @@
  👋 Hi developers
+ 
  [![Website Badge](https://img.shields.io/badge/StackOverflow-Ravi-yellow)](https://stackoverflow.com/users/16371894/ravi-jaiswal)
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Ravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravi-jaiswal-935398216//)]
  
  
  
